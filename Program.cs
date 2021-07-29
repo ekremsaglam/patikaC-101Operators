@@ -39,6 +39,8 @@ namespace operators
             int sonuc2 = number1* number2;
             number1++;
             
+            
+
         }
     }
 }
